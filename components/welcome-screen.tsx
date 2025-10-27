@@ -19,7 +19,6 @@ export default function WelcomeScreen({ onStart }: WelcomeScreenProps) {
               alt="Rocksoft Logo"
               className="h-10 w-auto"
             />
-            <h1 className="font-serif text-2xl font-bold text-rocksoft-dark">Rocksoft</h1>
           </div>
         </div>
       </header>
